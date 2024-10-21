@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ko4ex/fm2LXzEgnGdVG19wxGPHVG5/cDOiduHToaiO4L0960QQU9hwI1VnyGH43nbJwC4LRLc7VoKgIQToT74Q==",
+  "success": true,
+  "projectFilePath": "/home/hyprhex/Documents/Taskify/src/Core/Taskify.Domain/Taskify.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/hyprhex/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

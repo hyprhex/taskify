@@ -1,0 +1,5 @@
+/home/hyprhex/Documents/Taskify/src/Core/Taskify.Application/obj/Debug/net8.0/Taskify.Application.csproj.AssemblyReference.cache
+/home/hyprhex/Documents/Taskify/src/Core/Taskify.Application/obj/Debug/net8.0/Taskify.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/hyprhex/Documents/Taskify/src/Core/Taskify.Application/obj/Debug/net8.0/Taskify.Application.AssemblyInfoInputs.cache
+/home/hyprhex/Documents/Taskify/src/Core/Taskify.Application/obj/Debug/net8.0/Taskify.Application.AssemblyInfo.cs
+/home/hyprhex/Documents/Taskify/src/Core/Taskify.Application/obj/Debug/net8.0/Taskify.Application.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+/home/hyprhex/Documents/Taskify/src/Core/Taskify.Domain/bin/Debug/net8.0/Taskify.Domain.deps.json
+/home/hyprhex/Documents/Taskify/src/Core/Taskify.Domain/bin/Debug/net8.0/Taskify.Domain.dll
+/home/hyprhex/Documents/Taskify/src/Core/Taskify.Domain/bin/Debug/net8.0/Taskify.Domain.pdb
+/home/hyprhex/Documents/Taskify/src/Core/Taskify.Domain/obj/Debug/net8.0/Taskify.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/hyprhex/Documents/Taskify/src/Core/Taskify.Domain/obj/Debug/net8.0/Taskify.Domain.AssemblyInfoInputs.cache
+/home/hyprhex/Documents/Taskify/src/Core/Taskify.Domain/obj/Debug/net8.0/Taskify.Domain.AssemblyInfo.cs
+/home/hyprhex/Documents/Taskify/src/Core/Taskify.Domain/obj/Debug/net8.0/Taskify.Domain.csproj.CoreCompileInputs.cache
+/home/hyprhex/Documents/Taskify/src/Core/Taskify.Domain/obj/Debug/net8.0/Taskify.Domain.dll
+/home/hyprhex/Documents/Taskify/src/Core/Taskify.Domain/obj/Debug/net8.0/refint/Taskify.Domain.dll
+/home/hyprhex/Documents/Taskify/src/Core/Taskify.Domain/obj/Debug/net8.0/Taskify.Domain.pdb
+/home/hyprhex/Documents/Taskify/src/Core/Taskify.Domain/obj/Debug/net8.0/ref/Taskify.Domain.dll
